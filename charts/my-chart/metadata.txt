@@ -1,0 +1,9 @@
+{
+	"title" : "my test chart",
+	"info" : "This is a test chart.",
+	"creator" : "(the person who wrote the song / performed it)",
+	"charter" : "(url that we don't have yet - we'll come back and fill this in soon)",
+	"icon" : "(url that we don't have yet - we'll come back and fill this in soon)",
+	"audio" : "(url that we don't have yet - we'll come back and fill this in soon)",
+	"chart" : "(url that we don't have yet - we'll come back and fill this in soon)"
+}
