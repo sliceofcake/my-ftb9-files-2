@@ -2,8 +2,8 @@
 	"title" : "my test chart",
 	"info" : "This is a test chart.",
 	"creator" : "(the person who wrote the song / performed it)",
-	"charter" : "(url that we don't have yet - we'll come back and fill this in soon)",
-	"icon" : "(url that we don't have yet - we'll come back and fill this in soon)",
-	"audio" : "(url that we don't have yet - we'll come back and fill this in soon)",
-	"chart" : "(url that we don't have yet - we'll come back and fill this in soon)"
+	"charter" : "https://raw.githubusercontent.com/sliceofcake/my-ftb9-files-2/main/profile.txt",
+	"icon" : "https://github.com/sliceofcake/my-ftb9-files-2/raw/main/charts/my-chart/tester-0.png",
+	"audio" : "https://github.com/sliceofcake/my-ftb9-files-2/raw/main/charts/my-chart/tester-0.m4a",
+	"chart" : "https://raw.githubusercontent.com/sliceofcake/my-ftb9-files-2/main/charts/my-chart/tester-0.txt"
 }

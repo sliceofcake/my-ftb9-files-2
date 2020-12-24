@@ -1,6 +1,6 @@
 {
 	"name" : "sliceofcake",
 	"chart-collection" : [
-		"(url that we don't have yet - we'll come back and fill this in soon)"
+		"https://raw.githubusercontent.com/sliceofcake/my-ftb9-files-2/main/charts/my-chart/metadata.txt"
 	]
 }
