@@ -1,0 +1,6 @@
+{
+	"name" : "sliceofcake",
+	"chart-collection" : [
+		"(url that we don't have yet - we'll come back and fill this in soon)"
+	]
+}
